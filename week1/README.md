@@ -1,6 +1,6 @@
 # Python Programming 
 
-## Week1 - Project Setup Guide
+## Week1 - Project Setup Guide and hello world
 
 This guide explains how to set up the development environment using  Visual Studio Code (VS Code) with Jupyter notebook, Python.
 
@@ -24,7 +24,6 @@ Below are the steps for Python Installation Using Command Prompt on Windows
 2. Validate Conda & Pythonn are successfully installed.
 
     ```bash
-    conda --version 
     python --version
     ```
 
