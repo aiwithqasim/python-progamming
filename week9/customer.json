@@ -1,0 +1,12 @@
+{
+    "name": "Arfa",
+    "age": 13,
+    "hobbies": ["reading", "watching movies", "coding"],
+    "location": "Earth",
+    "is_student": true,
+    "favorite_subjects": {
+        "math": "algebra",
+        "science": "physics",
+        "literature": "poetry"
+    }
+}
